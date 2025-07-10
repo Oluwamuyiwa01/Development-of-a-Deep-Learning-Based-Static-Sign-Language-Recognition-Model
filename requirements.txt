@@ -1,0 +1,18 @@
+os
+cv2
+cvzone
+numpy
+tensorflow
+sklearn
+matplotlib
+seaborn
+
+
+To run the model, the following libraries are required.
+
+from flask import Flask, render_template, Response
+import cv2
+from cvzone.HandTrackingModule import HandDetector
+import numpy as np
+import math
+import tensorflow as tf
