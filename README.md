@@ -33,7 +33,7 @@ This project presents a deep learning-based static sign language recognition mod
 <img width="1366" height="768" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/4f71ac7a-78db-46d6-b11b-0cad899b013c" />  
 
 ## Contribution.  
-This thesis presents a deep learning-based static sign language recognition model that enhances basic communication for individuals with hearing impairments. Using Convolutional Neural Networks (CNNs) and advanced preprocessing techniques, the system accurately classifies static hand gestures in real-time. It is optimized for speed and efficiency, making it suitable for deployment on standard hardware. Beyond its practical impact, the project addresses gaps in existing models and provides a solid foundation for future work on dynamic gestures and multi-language sign support. It also contributes academically by offering a detailed case study for researchers in computer vision and assistive technology.  
+This project presents a deep learning-based static sign language recognition model that enhances basic communication for individuals with hearing impairments. Using Convolutional Neural Networks (CNNs) and advanced preprocessing techniques, the system accurately classifies static hand gestures in real-time. It is optimized for speed and efficiency, making it suitable for deployment on standard hardware. Beyond its practical impact, the project addresses gaps in existing models and provides a solid foundation for future work on dynamic gestures and multi-language sign support. It also contributes academically by offering a detailed case study for researchers in computer vision and assistive technology.  
 
 
 
