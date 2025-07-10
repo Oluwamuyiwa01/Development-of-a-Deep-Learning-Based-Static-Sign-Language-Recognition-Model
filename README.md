@@ -1,4 +1,4 @@
 # Development-of-a-Deep-Learning-Based-Static-Sign-Language-Recognition-Model
-This project implements a Convolutional Neural Network (CNN) for recognizing static sign language gestures. It was developed as my undergraduate thesis in Computer Science at Federal University Lokoja, Nigeria.
+This project implements a Convolutional Neural Network (CNN) for recognizing static sign language gestures. It was developed as my undergraduate thesis in Computer Science at Federal University Lokoja, Nigeria. 
 ##Overview
 This project presents a deep learning-based static sign language recognition model designed to assist the deaf and hard-of-hearing in basic communication. The system captures and classifies static hand gestures using a convolutional neural network (CNN) trained on a self-generated dataset. Key components include a data acquisition module using a webcam, preprocessing techniques for noise reduction and segmentation, feature extraction using CNNs, and model testing for performance tuning. The model can serve as both an educational tool and a foundational communication aid.
