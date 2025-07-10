@@ -1,4 +1,40 @@
 # Development-of-a-Deep-Learning-Based-Static-Sign-Language-Recognition-Model
-This project implements a Convolutional Neural Network (CNN) for recognizing static sign language gestures. It was developed as my undergraduate thesis in Computer Science at Federal University Lokoja, Nigeria. 
-##Overview
-This project presents a deep learning-based static sign language recognition model designed to assist the deaf and hard-of-hearing in basic communication. The system captures and classifies static hand gestures using a convolutional neural network (CNN) trained on a self-generated dataset. Key components include a data acquisition module using a webcam, preprocessing techniques for noise reduction and segmentation, feature extraction using CNNs, and model testing for performance tuning. The model can serve as both an educational tool and a foundational communication aid.
+This project presents a Convolutional Neural Network (CNN) developed for recognizing static sign language gestures. It was carried out as my undergraduate thesis in Computer Science at Federal University Lokoja, Nigeria.
+
+## Overview.
+
+This project presents a deep learning-based static sign language recognition model designed to assist the deaf and hard-of-hearing in basic communication. The system captures and classifies static hand gestures using a convolutional neural network (CNN) trained on a self-generated dataset. Key components include a data acquisition module using a webcam, preprocessing techniques for noise reduction and segmentation, feature extraction using CNNs, and model testing for performance tuning. The model can serve as both an educational tool and a foundational communication aid.  
+## Data Collection and Preprocessing.  
+* Type: Image dataset of static hand signs.  
+* Num of classes: 12.  
+* Source: Self-generated using OpenCV via webcam.  
+* Collection Method: Captured multiple images per class using OpenCV in real-time with hand tracking and segmentation.  
+* Preprocessing: Resizing, grayscale conversion, normalization, and one-hot encoding.  
+* Dataset split: 80% training, 20% testing.  
+<img width="639" height="259" alt="Vi" src="https://github.com/user-attachments/assets/86168693-21d3-42bf-8a70-2b7251904229" />
+  
+## Model Architecture.    
+* I built the model using TensorFlow/Keras      
+* Input image size: 224 X 224   
+* Layers: Conv2D, MaxPooling2D, Dropout, Flatten, Dense    
+* Loss: Categorical crossentropy; Optimizer: Adam   
+* Trained for 20 epochs    
+* Achieved high accuracy and generalization
+  
+## Performance Evaluation.  
+<img width="441" height="146" alt="accuracy" src="https://github.com/user-attachments/assets/12d3930b-4186-4f2c-ad0f-b5e1ef7a692e" />  
+
+## Confusion matrix  
+<img width="550" height="437" alt="matr" src="https://github.com/user-attachments/assets/e855d9e5-1e44-4116-b207-63c7375b6c70" />  
+
+## Presentations of some of the results.    
+<img width="644" height="484" alt="C" src="https://github.com/user-attachments/assets/285a7d6d-d555-4f2d-9d0e-4ad2c7a5e24d" />  
+<img width="638" height="481" alt="Y" src="https://github.com/user-attachments/assets/70c1495b-605f-40e4-840b-536de7f46c7e" />  
+<img width="1366" height="768" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/4f71ac7a-78db-46d6-b11b-0cad899b013c" />  
+
+## Contribution.  
+This thesis presents a deep learning-based static sign language recognition model that enhances basic communication for individuals with hearing impairments. Using Convolutional Neural Networks (CNNs) and advanced preprocessing techniques, the system accurately classifies static hand gestures in real-time. It is optimized for speed and efficiency, making it suitable for deployment on standard hardware. Beyond its practical impact, the project addresses gaps in existing models and provides a solid foundation for future work on dynamic gestures and multi-language sign support. It also contributes academically by offering a detailed case study for researchers in computer vision and assistive technology.  
+
+
+
+
