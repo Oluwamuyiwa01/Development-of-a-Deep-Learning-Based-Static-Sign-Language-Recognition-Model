@@ -8,11 +8,15 @@ This project presents a deep learning-based static sign language recognition mod
 * Type: Image dataset of static hand signs.  
 * Num of classes: 12.  
 * Source: Self-generated using OpenCV via webcam.  
-* Collection Method: Captured multiple images per class using OpenCV in real-time with hand tracking and segmentation.  
+* Collection Method: Captured multiple images per class using OpenCV in real-time with hand tracking and segmentation.
 * Preprocessing: Resizing, grayscale conversion, normalization, and one-hot encoding.  
 * Dataset split: 80% training, 20% testing.  
 <img width="639" height="259" alt="Vi" src="https://github.com/user-attachments/assets/86168693-21d3-42bf-8a70-2b7251904229" />
-  
+
+## Dataset.  
+
+To access the dataset I used in this project, please request permission via this link: [Download Dataset (Google Drive)](https://drive.google.com/file/d/https://drive.google.com/file/d/1QdowjuEHzlpvslyBXKdpV0t51wWD0lee/view?usp=drive_link/view?usp=sharing)  
+
 ## Model Architecture.    
 * I built the model using TensorFlow/Keras      
 * Input image size: 224 X 224   
