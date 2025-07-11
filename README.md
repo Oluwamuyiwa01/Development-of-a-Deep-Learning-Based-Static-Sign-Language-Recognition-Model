@@ -23,8 +23,10 @@ To access the dataset I used in this project, please request permission via this
 * Layers: Conv2D, MaxPooling2D, Dropout, Flatten, Dense    
 * Loss: Categorical crossentropy; Optimizer: Adam   
 * Trained for 20 epochs    
-* Achieved high accuracy and generalization
+* Achieved high accuracy and generalization  
   
+https://github.com/user-attachments/assets/4e8ca8aa-cac0-4679-a986-d367ea014d80
+
 ## Performance Evaluation.  
 <img width="441" height="146" alt="accuracy" src="https://github.com/user-attachments/assets/12d3930b-4186-4f2c-ad0f-b5e1ef7a692e" />  
 
