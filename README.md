@@ -15,7 +15,8 @@ This project presents a deep learning-based static sign language recognition mod
 
 ## Dataset.  
 
-To access the dataset I used in this project, please request permission via this link: [Download Dataset](https://drive.google.com/file/d/https://drive.google.com/file/d/1QdowjuEHzlpvslyBXKdpV0t51wWD0lee/view?usp=drive_link/view?usp=sharing)  
+To access the dataset I used in this project, please request permission via this link: [Download Dataset](https://drive.google.com/file/d/https://drive.google.com/file/d/1QdowjuEHzlpvslyBXKdpV0t51wWD0lee/view?usp=drive_link/view?usp=sharing) 
+https://drive.google.com/file/d/1QdowjuEHzlpvslyBXKdpV0t51wWD0lee/view?usp=drive_link
 
 ## Model Architecture.    
 * I built the model using TensorFlow/Keras      
