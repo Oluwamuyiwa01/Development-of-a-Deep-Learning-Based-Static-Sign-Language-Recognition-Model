@@ -39,7 +39,7 @@ To access the dataset I used in this project, please request permission via this
 ## Contribution.  
 This project presents a deep learning-based static sign language recognition model that enhances basic communication for individuals with hearing impairments. Using Convolutional Neural Networks (CNNs) and advanced preprocessing techniques, the system accurately classifies static hand gestures in real-time. It is optimized for speed and efficiency, making it suitable for deployment on standard hardware. Beyond its practical impact, the project addresses gaps in existing models and provides a solid foundation for future work on dynamic gestures and multi-language sign support. It also contributes academically by offering a detailed case study for researchers in computer vision and assistive technology.   
 
-## Download Trained Model.
+## Download the Trained Model.
 
 The trained model file (`CNN-MODEL.h5`) is available for **live implementation on standard hardware**, as well as for **academic** and **research** purposes. link: [Trained Model](https://drive.google.com/drive/folders/13ekzOaJyp7E-Y8Yf3DUWKcBTG5z05QMd?usp=drive_link)  
 
