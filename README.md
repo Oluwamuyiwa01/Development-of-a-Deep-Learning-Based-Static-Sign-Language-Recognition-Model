@@ -6,7 +6,7 @@ This project presents a Convolutional Neural Network (CNN) developed for recogni
 This project presents a deep learning-based static sign language recognition model designed to assist the deaf and hard-of-hearing in basic communication. The system captures and classifies static hand gestures using a convolutional neural network (CNN) trained on a self-generated dataset. Key components include a data acquisition module using a webcam, preprocessing techniques for noise reduction and segmentation, feature extraction using CNNs, and model testing for performance tuning. The model can serve as both an educational tool and a foundational communication aid.  
 ## Data Collection and Preprocessing.  
 * Type: Image dataset of static hand signs.  
-* Num of classes: 12.  
+* Number of classes: 12.  
 * Source: Self-generated using OpenCV via webcam.  
 * Collection Method: Captured multiple images per class using OpenCV in real-time with hand tracking and segmentation.
 * Preprocessing: Resizing, grayscale conversion, normalization, and one-hot encoding.  
