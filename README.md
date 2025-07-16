@@ -3,7 +3,7 @@ This project presents a Convolutional Neural Network (CNN) developed for recogni
 
 ## Overview.
 
-I designed this project, titled Deep Learning-Based Static Sign Language Recognition Model, to assist the deaf and hard-of-hearing in basic communication. The system captures and classifies static hand gestures using a convolutional neural network (CNN) trained on a self-generated dataset. Key components include a data acquisition module using a webcam, preprocessing techniques for noise reduction and segmentation, feature extraction using CNNs, and model testing for performance tuning. The model can serve as both an educational tool and a foundational communication aid.  
+This project, titled "Deep Learning-Based Static Sign Language Recognition Model," was designed to assist the deaf and hard-of-hearing in basic communication. The system captures and classifies static hand gestures using a Convolutional Neural Network (CNN) trained on a self-generated dataset. Key components include a data acquisition module using a webcam, preprocessing techniques for noise reduction and segmentation, feature extraction using CNNs, and model evaluation for performance tuning. The model serves as both an educational tool and a foundational communication aid.
 ## Data Collection and Preprocessing.  
 * Type: Image dataset of static hand signs.  
 * Number of classes: 12.  
@@ -37,7 +37,8 @@ To access the dataset I used in this project, please request permission via this
 
 ## Contribution.  
 
-The project enhances basic communication for individuals with hearing impairments. Using Convolutional Neural Networks (CNNs) and advanced preprocessing techniques, the system accurately classifies static hand gestures in real-time. It is optimized for speed and efficiency, making it suitable for deployment on standard hardware. Beyond its practical impact, the project addresses gaps in existing models and provides a solid foundation for future work on dynamic gestures and multi-language sign support. It also contributes academically by offering a detailed case study for researchers in computer vision and assistive technology.   
+This project enhances basic communication for individuals with hearing impairments. Leveraging Convolutional Neural Networks (CNNs) and advanced preprocessing techniques, the system accurately classifies static hand gestures in real-time. It is optimized for speed and efficiency, making it suitable for deployment on standard hardware. Beyond its practical impact, the project addresses limitations in existing models and provides a solid foundation for future work on dynamic gesture recognition and multi-language sign support. Academically, it contributes a detailed case study for researchers in computer vision and assistive technology.  
+ 
 
 ## Download the Trained Model.
 
